@@ -1,0 +1,2 @@
+# GenAIAiToolkitCoreNext
+Advanced GenAIAiToolkitCoreNext project
